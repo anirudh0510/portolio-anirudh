@@ -1,16 +1,64 @@
-# React + Vite
+Anirudh Chauhan — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive developer portfolio built with **React + Vite**, showcasing my projects, skills, and experience using smooth animations and 3D visuals.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** https://your-vercel-link.vercel.app  
+📂 **Repository:** https://github.com/anirudh0510/portfolio-anirudh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I’m **Anirudh Chauhan**, a B.Tech student and aspiring **Full-Stack / AI-ML Developer**.  
+I enjoy building interactive web experiences, working with modern JavaScript frameworks, and experimenting with computer vision and 3D graphics.
 
-## Expanding the ESLint configuration
+This portfolio highlights:
+- My technical skill set
+- Personal & academic projects
+- Technologies I actively work with
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Features
+
+- ⚡ Built with **React + Vite** for fast performance
+- 🎨 Modern UI with smooth animations (GSAP)
+- 🧊 3D components using **Three.js / React Three Fiber**
+- 📱 Fully responsive design
+- 🚀 Deployed on **Vercel**
+
+---
+
+##  Tech Stack
+
+### Frontend
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS / Tailwind CSS
+
+### Animations & 3D
+- GSAP
+- Three.js
+- @react-three/fiber
+- @react-three/drei
+
+### Tooling
+- ESLint
+- Git & GitHub
+- Vercel (Deployment)
+
+---
+
+##  Project Structure
+
+```txt
+src/
+├── components/
+│   ├── Models/
+│   ├── HeroModels/
+│   └── UI Components
+├── sections/
+├── constants/
+├── App.jsx
+└── main.jsx
